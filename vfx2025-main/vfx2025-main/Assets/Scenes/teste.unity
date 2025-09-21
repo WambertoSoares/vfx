@@ -410,11 +410,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4413127304568300762, guid: 08e8d1f4988aa09428e5a4102a7be946, type: 3}
       propertyPath: looping
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6487008917796764653, guid: 08e8d1f4988aa09428e5a4102a7be946, type: 3}
       propertyPath: looping
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -561,7 +561,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5319967152830844174, guid: 9966156bce2fd4d4d836dd92b39ea47c, type: 3}
       propertyPath: looping
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7006765038268251496, guid: 9966156bce2fd4d4d836dd92b39ea47c, type: 3}
       propertyPath: looping
@@ -730,7 +730,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 366729510999104682, guid: 68684125c1949024da94541b53f229a5, type: 3}
       propertyPath: looping
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2266717501510807129, guid: 68684125c1949024da94541b53f229a5, type: 3}
       propertyPath: m_Name
@@ -944,7 +944,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3606670621897517601, guid: 26022b35a3e556c498108a8393f9a22b, type: 3}
       propertyPath: looping
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3704668939967362381, guid: 26022b35a3e556c498108a8393f9a22b, type: 3}
       propertyPath: m_Name
